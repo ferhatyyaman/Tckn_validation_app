@@ -1,6 +1,8 @@
 # React Native TCKN Validator
 
 This is a React Native application that utilizes the tckn-validator npm package to create a user registration page with username and Turkish identification number (TCKN) validation
+[![NPM](https://img.shields.io/npm/v/tckn-validator.svg)](https://www.npmjs.com/package/tckn-validator)
+
 
 ## Installation
 
