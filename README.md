@@ -68,6 +68,11 @@ You've successfully run and modified your React Native App. :partying_face:
 
 ## Screenshots
 
-![Screenshot](assets/1.png | width=300)
+## Screenshots
+
+<img src="assets/1.png" alt="Screenshot 1" width="300" />
+<img src="assets/2.png" alt="Screenshot 2" width="300" />
+<img src="assets/3.png" alt="Screenshot 3" width="300" />
+
 
 
