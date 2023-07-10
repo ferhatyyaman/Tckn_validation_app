@@ -8,7 +8,7 @@ This is a React Native application that utilizes the tckn-validator npm package 
 
 Before running the application, make sure you have completed the React Native environment setup and have created a new React Native project using @react-native-community/cli. Once you have set up your project, follow these steps:
 
-The link to my created npm package is:   [![NPM](https://img.shields.io/npm/v/tckn-validator.svg)](https://www.npmjs.com/package/tckn-validator)
+The link to my created npm package is: https://www.npmjs.com/package/tckn-validator   [![NPM](https://img.shields.io/npm/v/tckn-validator.svg)](https://www.npmjs.com/package/tckn-validator)
 
 Step 1: Install the tckn-validator package using npm or Yarn:
 
