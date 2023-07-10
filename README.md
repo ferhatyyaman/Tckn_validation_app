@@ -22,12 +22,8 @@ yarn add tckn-validator
 
 ## Screenshots
 
-<img src="assets/1.png" alt="Screenshot 1" width="300" /> | <img src="assets/2.png" alt="Screenshot 2" width="300" />
--
+<img src="assets/1.png" alt="Screenshot 1" width="300" /> | <img src="assets/2.png" alt="Screenshot 2" width="300" /> | <img src="assets/3.png" alt="Screenshot 3" width="300" />
 
--
-<img src="assets/3.png" alt="Screenshot 3" width="300" />
--
 
 
 
