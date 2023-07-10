@@ -1,8 +1,20 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React Native TCKN Validator
 
-# Getting Started
+This is a React Native application that utilizes the tckn-validator npm package to create a user registration page with username and Turkish identification number (TCKN) validation
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Installation
+
+Before running the application, make sure you have completed the React Native environment setup and have created a new React Native project using @react-native-community/cli. Once you have set up your project, follow these steps:
+
+Step 1: Install the tckn-validator package using npm or Yarn:
+
+```bash
+# using npm
+npm install tckn-validator
+
+# OR using Yarn
+yarn add tckn-validator
+```
 
 ## Step 1: Start the Metro Server
 
