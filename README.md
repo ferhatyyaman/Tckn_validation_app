@@ -67,5 +67,9 @@ This is one way to run your app — you can also run it directly from within And
 You've successfully run and modified your React Native App. :partying_face:
 
 ## Screenshots
-![Screenshot 1](assets/1.png)
+## Screenshots
+
+![Screenshot 1](assets/1.png | width=300)
+![Screenshot 2](assets/2.png | width=300)
+![Screenshot 3](assets/3.png | width=300)
 
